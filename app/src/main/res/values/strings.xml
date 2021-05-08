@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndoridDo</string>
+    <string name="edit_message">메시지를 입력해주세요..</string>
+    <string name="button_send">submit</string>
+</resources>
